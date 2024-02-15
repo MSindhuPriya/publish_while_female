@@ -13,7 +13,7 @@ This paper aims to create an analysis on discrimination with the publishing of s
 
 `scripts` consists of all the R scripts used in this paper
 
-`replication` consists of all the data regarding the replication of Erin Hengel's paper "Publishing while female: Are women held to higher standards? Evidence from peer review". This includes the main imput files in `replication/inputs`, the replicated figures in `replication/figures`,the output code in `replication/output`, and all the R scripts in `replication/scripts`. 
+`replication` consists of all the data regarding the replication of Erin Hengel's paper "Publishing while female: Are women held to higher standards? Evidence from peer review". This includes the main input files in `replication/inputs`, the replicated figures in `replication/figures`,the output code in `replication/output`, and all the R scripts in `replication/scripts`. 
 
 The original paper can be found at : https://academic.oup.com/ej/article/132/648/2951/6586337?login=true
 
